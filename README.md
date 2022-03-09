@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @itsgrv
-- 👀 I’m interested in learning new things, was working on backend technology using C/PSQL.
-- 🌱 I’m currently learning HTML/CSS and JS.
-- 💞️ I’m looking to collaborate on anything thing, i can learn and do things
-- 📫 How to reach me @linkedin at @grvagrawal
+- 👀 C Database expert.
+- 🌱 HTML/CSS and JS and low code tech.
+- 📫 linkedin <a href="https://www.linkedin.com/in/grvagrawal/">grvagrawal</a>
 
 <!---
 itsgrv/itsgrv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
