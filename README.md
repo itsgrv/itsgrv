@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itsgrv
-- 👀 C Database expert.
-- 🌱 HTML/CSS and JS and low code tech.
+- 👀 I am a software engineer.
 - 📫 linkedin <a href="https://www.linkedin.com/in/grvagrawal/">grvagrawal</a>
 
 <!---
